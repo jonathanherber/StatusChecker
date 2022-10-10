@@ -1,0 +1,1 @@
+A server status checker is a script that will let you monitor if your server is active and running
